@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GridViewHW</string>
+    <string name="abc">An activity class loads all the UI component using the
+        XML file available in res/layout folder of the project. Following statement
+        loads UI components from res/layout/activity_main.xml file: setContentView
+        (R.layout.activity_main); An application can have one or more activities without
+        any restrictions. Every activity you define for your application must be declared
+        in your AndroidManifest.xml file and the main activity
+        that includes the MAIN action and LAUNCHER category as follows:
+    An activity class loads all the UI component using the
+        XML file available in res/layout folder of the project. Following statement
+        loads UI components from res/layout/activity_main.xml file: setContentView
+        (R.layout.activity_main); An application can have one or more activities without
+        any restrictions. Every activity you define for your application must be declared
+        in your AndroidManifest.xml file and the main activity
+        that includes the MAIN action and LAUNCHER category as follows:</string>
+</resources>
